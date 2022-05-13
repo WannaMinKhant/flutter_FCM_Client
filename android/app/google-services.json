@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "254446844599",
+    "project_id": "pushnoti-c1890",
+    "storage_bucket": "pushnoti-c1890.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254446844599:android:f2709cde3db61fb8fa6b32",
+        "android_client_info": {
+          "package_name": "com.example.push_noti_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254446844599-gckhnpjjpde8hhi7brlf3uralu3uth5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1x0YNzceIafaN7t7lDiPVP4CVEzEW8C8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254446844599-gckhnpjjpde8hhi7brlf3uralu3uth5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
